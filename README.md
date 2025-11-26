@@ -1,8 +1,8 @@
 # Cloud Provider Analytics
 
 **Integrantes:**\
-- Franco Sanchez\
-- Rodrigo Cirera\
+- Franco Sanchez
+- Rodrigo Cirera
 - Juan Baliota
 
 ## Descripción del Proyecto
